@@ -8,10 +8,6 @@
 
 <p align="center"> 
   
-  <!-- <a href="https://twitter.com/@_Ilunga_0">
-    <img src="https://img.shields.io/badge/Twitter-9e7661?style=for-the-badge"/>
-  </a> -->
-  
    <a href="https://portfolio-rachit776s-projects.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-7a5c4b?style=for-the-badge"/>
   </a>
@@ -34,9 +30,7 @@
 
 - 💬 Ask me about **DSA, Javascript, React.**
 
-- 📄 Know about my experiences [My Updated Resume.]()
-
-- ⚡ Fun fact : **I'm old school.**
+<!-- - 📄 Know about my experiences [My Updated Resume.]() -->
 
 
 <h2 align="left">💻 Tech Stack:</h2>
