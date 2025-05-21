@@ -4,7 +4,7 @@
 
 <h3 align="center">A passionate programmer and MERN stack developer from India.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=abhi01-01&label=Profile%20views&color=0e75b6&style=flat" alt="abhi01-01" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rachit776&label=Profile%20views&color=0e75b6&style=flat" alt="rachit776" /> </p>
 
 <p align="center"> 
   
@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Twitter-9e7661?style=for-the-badge"/>
   </a> -->
   
-   <a href="https://portfolio-abhi-83.netlify.app/">
+   <a href="[https://portfolio-abhi-83.netlify.app](https://portfolio-rachit776s-projects.vercel.app/)">
     <img src="https://img.shields.io/badge/Portfolio-7a5c4b?style=for-the-badge"/>
   </a>
   
@@ -55,9 +55,7 @@
 
 ## 🎧 Spotify Playing 
 
-<div align="center">
 [![Spotify Recently Playing](https://spotify-recently-played-readme.vercel.app/api?user=31haqy7o55wgyz7au74fvigzl5du&count=6&width=600&align=center&unique=true)](https://open.spotify.com/user/31haqy7o55wgyz7au74fvigzl5du)
-</div>
 
 ## 📊 GitHub Stats:
 
