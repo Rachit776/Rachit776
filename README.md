@@ -55,7 +55,11 @@
 
 ## 🎧 Spotify Playing 
 
-[![Spotify Recently Playing](https://spotify-recently-played-readme.vercel.app/api?user=31haqy7o55wgyz7au74fvigzl5du&count=6&width=600&align=center&unique=true)](https://open.spotify.com/user/31haqy7o55wgyz7au74fvigzl5du)
+<p align="center">
+  <a href="https://open.spotify.com/user/31haqy7o55wgyz7au74fvigzl5du">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31haqy7o55wgyz7au74fvigzl5du&count=6&width=600&align=center&unique=true" alt="Spotify Recently Played" />
+  </a>
+</p>
 
 ## 📊 GitHub Stats:
 
