@@ -61,6 +61,4 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=rachit776&show_icons=true&locale=en&theme=dark&background=000000" alt="rachit776" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rachit776&theme=dark&background=000000" alt="rachit776" /></p>
-
 
